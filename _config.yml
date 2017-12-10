@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
+title:        Hosted by jekyll
 tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
+baseurl:      "https://yoga9518.github.io/jekyll/"
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
+  name:       Yoga Setiawan
   url:        https://yoga9518.github.io/blog 
 
 # Gems
